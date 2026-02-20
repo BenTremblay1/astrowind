@@ -1,0 +1,37 @@
+{
+  "id": "candidate_20260219_901",
+  "name": "FieldPermitOS",
+  "url": "https://example.com/fieldpermitos",
+  "estimated_mrr": 14000.0,
+  "mrr_confidence": "medium",
+  "industry": "Construction",
+  "function": "Permit workflow tracking",
+  "niche_description": "Permit and compliance workflow for specialty subcontractors",
+  "estimated_mvp_days": 20,
+  "integration_count": 3,
+  "maintenance_risk": "medium",
+  "competitive_density": "low",
+  "wedge": "Permit expiration intelligence by jurisdiction",
+  "estimated_cpc": 3.2,
+  "channel_fit": 3,
+  "adjacent_opportunities": 2,
+  "tags": [
+    "workflow",
+    "construction"
+  ],
+  "source_type": "llm_generated",
+  "source_week": 1,
+  "source_rotation_label": "Revenue-Transparent Platforms",
+  "score_breakdown": {
+    "revenue_signal": 29,
+    "buildability": 13,
+    "maintenance_burden": 9,
+    "defensibility": 10,
+    "acquisition_cost": 7,
+    "expansion_potential": 4,
+    "vault_adjustments": []
+  },
+  "opportunity_score": 7.2,
+  "score": 72,
+  "discovered_at": "2026-02-19T02:04:19.125431+00:00"
+}

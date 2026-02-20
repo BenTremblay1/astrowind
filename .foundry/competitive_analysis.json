@@ -1,0 +1,75 @@
+{
+  "competitors_analyzed": 3,
+  "competitor_details": [
+    {
+      "name": "Procore",
+      "headline": "Procore Construction Management Software | Procore",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    },
+    {
+      "name": "Autodesk Construction Cloud",
+      "headline": "CONSTRUCTION MANAGEMENT SOFTWARE",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    },
+    {
+      "name": "Buildertrend",
+      "headline": "Generic category messaging",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    }
+  ],
+  "positioning_gap": "Competitors talk to broad businesses. Strong opportunity to target one buyer persona with pain-specific copy.",
+  "recommended_angle": "persona-specific, outcome-focused",
+  "competitor_signals": [
+    {
+      "name": "Procore",
+      "url": "https://www.procore.com",
+      "title": "Procore Construction Management Software | Procore",
+      "meta_description": "The all-in-one construction management software built to help you finish quality projects\u2014safely, on time, and within budget.",
+      "headline": ""
+    },
+    {
+      "name": "Autodesk Construction Cloud",
+      "url": "https://construction.autodesk.com",
+      "title": "Construction Management Software | Autodesk Construction Cloud",
+      "meta_description": "Construction management software that is your single source of truth for every project. Learn how Autodesk Construction Cloud can help your teams collaborate securely and quickly across every project phase, so you can...",
+      "headline": "CONSTRUCTION MANAGEMENT SOFTWARE"
+    },
+    {
+      "name": "Buildertrend",
+      "url": "https://buildertrend.com",
+      "title": "",
+      "meta_description": "",
+      "headline": ""
+    }
+  ]
+}
