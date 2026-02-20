@@ -1,0 +1,38 @@
+{
+  "id": "candidate_20260217_001",
+  "name": "VetSchedule",
+  "url": "https://example.com/vetschedule",
+  "estimated_mrr": 18000,
+  "mrr_confidence": "high",
+  "industry": "Veterinary",
+  "function": "Scheduling",
+  "niche_description": "Appointment scheduling and reminders for independent vet clinics",
+  "estimated_mvp_days": 12,
+  "integration_count": 2,
+  "maintenance_risk": "low",
+  "competitive_density": "medium",
+  "wedge": "Built for office managers at clinics with 5-25 staff",
+  "estimated_cpc": 2.8,
+  "channel_fit": 4,
+  "adjacent_opportunities": 3,
+  "tags": [
+    "spreadsheet migration",
+    "operations"
+  ],
+  "source_type": "keyword_research",
+  "score_breakdown": {
+    "revenue_signal": 30,
+    "buildability": 20,
+    "maintenance_burden": 13,
+    "defensibility": 8,
+    "acquisition_cost": 8,
+    "expansion_potential": 6,
+    "vault_adjustments": [
+      "+5 spreadsheet migration"
+    ]
+  },
+  "opportunity_score": 9.0,
+  "score": 90,
+  "discovered_at": "2026-02-17T20:05:18.055051+00:00",
+  "source_week": 1
+}
