@@ -1,0 +1,36 @@
+{
+  "id": "candidate_20260217_003",
+  "name": "PermitPulse",
+  "url": "https://example.com/permitpulse",
+  "estimated_mrr": 12000,
+  "mrr_confidence": "medium",
+  "industry": "Construction",
+  "function": "Permit workflow tracking",
+  "niche_description": "Permit package tracking for specialty subcontractors",
+  "estimated_mvp_days": 22,
+  "integration_count": 3,
+  "maintenance_risk": "medium",
+  "competitive_density": "low",
+  "wedge": "Permit expirations by jurisdiction",
+  "estimated_cpc": 3.1,
+  "channel_fit": 3,
+  "adjacent_opportunities": 2,
+  "tags": [
+    "workflow",
+    "construction"
+  ],
+  "source_type": "broker_listing",
+  "score_breakdown": {
+    "revenue_signal": 29,
+    "buildability": 13,
+    "maintenance_burden": 9,
+    "defensibility": 10,
+    "acquisition_cost": 7,
+    "expansion_potential": 4,
+    "vault_adjustments": []
+  },
+  "opportunity_score": 7.2,
+  "score": 72,
+  "discovered_at": "2026-02-17T20:05:18.056197+00:00",
+  "source_week": 1
+}
